@@ -1,5 +1,5 @@
 {
-  "name": "nlw-in-orbit-server",
+  "name": "nlw-in-orbit-backend",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
