@@ -37,6 +37,7 @@ O objetivo do evento é permitir que os desenvolvedores construam uma aplicaçã
 O layout da aplicação está disponível no [Figma](https://www.figma.com/design/0Hmz2mBHCHIDBnQW4XGraD/NLW-Pocket-JS-%E2%80%A2-in.orbit-(Community)-(Copy))
 
 ### Back-end
+
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="https://github.com/Gelzieny/nlw-in-orbit/blob/main/.github/img/lista.png?raw=true" width="400px">
 </p>
