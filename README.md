@@ -8,6 +8,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-descricao">Descrição</a> •
  <a href="#-layout">Layout</a> • 
+ <a href="#-funcionalidades">Funcionalidades</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-autor">Autor</a> • 
@@ -49,18 +50,40 @@ O layout da aplicação está disponível no [Figma](https://www.figma.com/desig
   <img alt="Lista de meta" title="#ListaMeta" src="https://raw.githubusercontent.com/Gelzieny/nlw_pocket_js/174f8795c51f684d63e91169a5f3d597bc79362a/.github/img/Goals.svg" width="400px">
 </p>
 
+## ⚙️ Funcionalidades
+
+- 📝 **Adicionar Metas**: Crie metas semanais com detalhes sobre os dias em que deseja cumpri-las.
+- 📅 **Definir Dias**: Escolha em quantos e quais dias da semana você deseja cumprir cada meta.
+- ✅ **Marcar Metas Cumpridas**: Selecione as metas que já foram realizadas ao longo da semana.
+- 📊 **Relatório Semanal**: Veja um relatório detalhado de todas as metas cumpridas, com dias e horários de conclusão.
+
 ## 🛠 Tecnologias
 
 <p align="justify">Este projeto utiliza um conjunto de tecnologias modernas para garantir uma aplicação eficiente e escalável, incluindo:</p>
 
-  * [Node.js](https://nodejs.org/en/) e [Fastify](https://fastify.dev/) para o backend
-  * [Insomina](https://insomnia.rest/download) para teste de APIs
-  * [React.js](https://react.dev/) para a interface do usuário
-  * [PostgreSQL](https://www.postgresql.org/) como banco de dados
-  * [Docker](https://www.docker.com/) Docker para facilitar o ambiente de desenvolvimento e a gestão de containers
-  * [Zod](https://zod.dev/) Zod para validação de dados
-  * [Drizzle ORM](https://orm.drizzle.team/) Drizzle ORM para manipulação do banco de dados
-  * [React Query](https://community.revelo.com.br/react-query-um-guia-pratico/) e [React Hook Form](https://react-hook-form.com/) para gestão de estados e formulários no frontend
+### Backend
+- 🟢 **[Node.js](https://nodejs.org/)**: Plataforma JavaScript utilizada para construir o servidor.
+- 🟦 **[TypeScript](https://www.typescriptlang.org/)**: Superconjunto do JavaScript que adiciona tipagem estática opcional.
+- ⚡ **[Fastify](https://www.fastify.io/)**: Framework web para Node.js, focado em alta performance e baixo overhead.
+- 🐳 **[Docker Compose](https://docs.docker.com/compose/)**: Ferramenta para configurar e executar múltiplos containers Docker.
+- 🛡️ **[Zod](https://zod.dev/)**: Biblioteca para validação de esquemas de dados e validações runtime.
+- 🗄️ **[Drizzle ORM](https://orm.drizzle.team/)**: ORM leve e focado em performance.
+- 🐘 **[Postgres](https://www.postgresql.org/)**: Banco de dados relacional utilizado para armazenamento de dados.
+- 🆔 **[@paralleldrive/cuid2](https://github.com/paralleldrive/cuid2)**: Biblioteca para geração de IDs únicos de forma segura.
+- 📆 **[Day.js](https://day.js.org/)**: Biblioteca para manipulação e formatação de datas.
+- 🔐 **[Fastify-type-provider-zod](https://github.com/fastify/fastify-type-provider-zod)**: Provedor de tipos para integração entre Fastify e Zod, garantindo validação de tipos no Fastify.
+- 🌱 **[Biome](https://biomejs.dev/)**: Ferramenta de linting e formatação para garantir código limpo.
+
+### Frontend
+- ⚛️ **[React](https://reactjs.org/)**: Biblioteca JavaScript para construção de interfaces de usuário.
+- ⚡ **[Vite](https://vitejs.dev/)**: Ferramenta de build rápida para desenvolvimento frontend.
+- 🟦 **[TypeScript](https://www.typescriptlang.org/)**: Superconjunto de JavaScript com tipagem estática.
+- 🎨 **[TailwindCSS](https://tailwindcss.com/)**: Framework CSS utilitário para estilização.
+- 📡 **[React Query](https://tanstack.com/query/v3/)**: Biblioteca para gerenciamento de estados e requisições assíncronas.
+- 📝 **[React Hook Form](https://react-hook-form.com/)**: Biblioteca para lidar com formulários no React.
+- 🖱️ **[@radix-ui](https://www.radix-ui.com/)**: Biblioteca de componentes acessíveis e de alto desempenho para interfaces de usuário.
+- 🖼️ **[Lucid React](https://www.npmjs.com/package/lucid-react)**: Biblioteca de componentes React.
+- 🌱 **[Biome](https://biomejs.dev/)**: Ferramenta de linting e formatação para garantir código limpo.
 
 
 ## 🚀 Como executar o projeto
