@@ -38,9 +38,10 @@ O layout da aplicação está disponível no [Figma](https://www.figma.com/desig
 
 ### Back-end
 
-<img alt="https://github.com/Gelzieny/nlw-in-orbit/blob/main/.github/img/lista.png?raw=true" width="400px">
+
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+<img src="https://raw.githubusercontent.com/Gelzieny/nlw-in-orbit/f223dd371c284640dad2dc9cf2cd5dbb8db4db72/.github/img/logo.svg"  alt="Logo in.orbit" />
   <img alt="https://github.com/Gelzieny/nlw-in-orbit/blob/main/.github/img/lista.png?raw=true" width="400px">
 </p>
 
