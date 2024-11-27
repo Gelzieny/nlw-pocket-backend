@@ -6,12 +6,19 @@ import {
   validatorCompiler,
   type ZodTypeProvider,
 } from 'fastify-type-provider-zod'
+import { getWeekPendingGoals } from '../functions/get-week-pending-goals'
 
 const app = fastify().withTypeProvider<ZodTypeProvider>()
 const PORT = Number(process.env.PORT) || 3333 // Converte para número
 
 app.setValidatorCompiler(validatorCompiler)
 app.setSerializerCompiler(serializerCompiler)
+
+app.get('/pending-goals', async () => {
+  const sql = await getWeekPendingGoals()
+
+  return sql
+})
 
 app.post(
   '/goals',
