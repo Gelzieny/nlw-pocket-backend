@@ -36,12 +36,15 @@ O objetivo do evento é permitir que os desenvolvedores construam uma aplicaçã
 
 O layout da aplicação está disponível no [Figma](https://www.figma.com/design/0Hmz2mBHCHIDBnQW4XGraD/NLW-Pocket-JS-%E2%80%A2-in.orbit-(Community)-(Copy))
 
-### Insomina
+### Back-end
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="https://github.com/Gelzieny/nlw-in-orbit/blob/main/.github/img/lista.png?raw=true" width="400px">
+</p>
 
-### Web
+### Front-end
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Tela inicial" title="#TelaInicial" src="https://raw.githubusercontent.com/Gelzieny/nlw_pocket_js/174f8795c51f684d63e91169a5f3d597bc79362a/.github/img/Empty.svg" width="400px">
+  <img alt="https://github.com/Gelzieny/nlw-in-orbit/blob/main/.github/img/lista.png?raw=true" width="400px">
 
   <img alt="Cadastrar meta" title="#CadastrarMeta" src="https://raw.githubusercontent.com/Gelzieny/nlw_pocket_js/174f8795c51f684d63e91169a5f3d597bc79362a/.github/img/Create%20goal.svg" width="400px">
 
