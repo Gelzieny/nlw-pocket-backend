@@ -38,10 +38,8 @@ O layout da aplicação está disponível no [Figma](https://www.figma.com/desig
 
 ### Back-end
 
-
-
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img src="https://github.com/Gelzieny/nlw-in-orbit/blob/main/.github/img/lista.png?raw=true" width="400px" alt="Logo in.orbit" />
+  <img src="https://github.com/Gelzieny/nlw-in-orbit/blob/main/.github/img/lista.png?raw=true" width="400px" alt="tela do vscode com a função que faz uma consulta no banco" />
 
 </p>
 
