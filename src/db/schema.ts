@@ -8,10 +8,8 @@ export const goals = pgTable("goals", {
   createAt: timestamp('create_at', {withTimezone: true}).notNull().defaultNow(),
 });
 
-export const goalsCompletions = pgTable("goals_completions", {
+export const goalCompletions = pgTable("goal_completions", {
   id: text('id').primaryKey().$defaultFn(() => createId()),
   goalsId: text('goals_id').references(() => goals.id).notNull(),
-  title: text('title').notNull(),
-  desiredWeeklyFrequency: integer('desired_weekly_frequency').notNull(),
-  createAt: timestamp('create_at', {withTimezone: true}).notNull().defaultNow(),
+  createdAt: timestamp('created_at', { withTimezone: true }).notNull().defaultNow(),
 });
