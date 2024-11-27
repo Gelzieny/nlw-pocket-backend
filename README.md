@@ -15,7 +15,6 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
-
 ## 💻 Sobre o projeto
 
 <p align="justify">
@@ -27,14 +26,14 @@ O objetivo do evento é permitir que os desenvolvedores construam uma aplicaçã
 
 <p align="justify">O in.Orbit é uma aplicação de gerenciamento de metas, onde o usuário pode:</p>
 
-  * Cadastrar novas metas
-  * Listar todas as metas cadastradas
-  * Acompanhar o progresso semanal com um resumo de metas concluídas
-  * Marcar metas como concluídas
+- Cadastrar novas metas
+- Listar todas as metas cadastradas
+- Acompanhar o progresso semanal com um resumo de metas concluídas
+- Marcar metas como concluídas
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no [Figma](https://www.figma.com/design/0Hmz2mBHCHIDBnQW4XGraD/NLW-Pocket-JS-%E2%80%A2-in.orbit-(Community)-(Copy))
+O layout da aplicação está disponível no [Figma](<https://www.figma.com/design/0Hmz2mBHCHIDBnQW4XGraD/NLW-Pocket-JS-%E2%80%A2-in.orbit-(Community)-(Copy)>)
 
 ### Back-end
 
@@ -73,6 +72,7 @@ O layout da aplicação está disponível no [Figma](https://www.figma.com/desig
 <p align="justify">Este projeto utiliza um conjunto de tecnologias modernas para garantir uma aplicação eficiente e escalável, incluindo:</p>
 
 ### Backend
+
 - 🟢 **[Node.js](https://nodejs.org/)**: Plataforma JavaScript utilizada para construir o servidor.
 - 🟦 **[TypeScript](https://www.typescriptlang.org/)**: Superconjunto do JavaScript que adiciona tipagem estática opcional.
 - ⚡ **[Fastify](https://www.fastify.io/)**: Framework web para Node.js, focado em alta performance e baixo overhead.
@@ -86,6 +86,7 @@ O layout da aplicação está disponível no [Figma](https://www.figma.com/desig
 - 🌱 **[Biome](https://biomejs.dev/)**: Ferramenta de linting e formatação para garantir código limpo.
 
 ### Frontend
+
 - ⚛️ **[React](https://reactjs.org/)**: Biblioteca JavaScript para construção de interfaces de usuário.
 - ⚡ **[Vite](https://vitejs.dev/)**: Ferramenta de build rápida para desenvolvimento frontend.
 - 🟦 **[TypeScript](https://www.typescriptlang.org/)**: Superconjunto de JavaScript com tipagem estática.
@@ -95,7 +96,6 @@ O layout da aplicação está disponível no [Figma](https://www.figma.com/desig
 - 🖱️ **[@radix-ui](https://www.radix-ui.com/)**: Biblioteca de componentes acessíveis e de alto desempenho para interfaces de usuário.
 - 🖼️ **[Lucid React](https://www.npmjs.com/package/lucid-react)**: Biblioteca de componentes React.
 - 🌱 **[Biome](https://biomejs.dev/)**: Ferramenta de linting e formatação para garantir código limpo.
-
 
 ## 🚀 Como executar o projeto
 
@@ -148,7 +148,7 @@ $ npm run dev:server
 
 ```bash
 # Vá para a pasta web
-$ cd web
+$ cd frontend
 
 # Instale as dependências
 $ npm install
@@ -162,7 +162,6 @@ $ npm run dev
 # 🧑🏻‍💻 Autor
 
 Feito com ❤️ por Gelzieny R. Martins 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gelzieny-r-martins-180551106/)
-
 
 ## 📝 Licença
 
