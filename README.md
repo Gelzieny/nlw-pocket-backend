@@ -33,7 +33,7 @@ O objetivo do evento é permitir que os desenvolvedores construam uma aplicaçã
 
 ## Documentação
 
-A documentação do projeto está disponível no [Notion](https://docs-rocketseat.notion.site/FullStack-Intermedi-rio-Node-React-b2382e372d1f44f6bfb51a3d7b723dfd)
+A documentação do projeto está disponível no [Notion](<https://docs-rocketseat.notion.site/FullStack-Intermedi-rio-Node-React-b2382e372d1f44f6bfb51a3d7b723dfd>)
 
 ## 🎨 Layout
 
