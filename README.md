@@ -41,6 +41,12 @@ O layout da aplicação está disponível no [Figma](https://www.figma.com/desig
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img src="https://github.com/Gelzieny/nlw-in-orbit/blob/main/.github/img/lista.png?raw=true" width="400px" alt="tela do vscode com a função que faz uma consulta no banco" />
 
+  <img src="https://github.com/Gelzieny/nlw-in-orbit/blob/main/.github/img/schemadb.png?raw=true" width="400px" alt="tela do vscode com a função com campos do banco de dados em typeScript" />
+
+  <img src="https://github.com/Gelzieny/nlw-in-orbit/blob/main/.github/img/sql.png?raw=true" width="400px" alt="scrit sql" />
+
+  <img src="https://github.com/Gelzieny/nlw-in-orbit/blob/main/.github/img/insominia.png?raw=true" width="400px" alt="Tela do insominia listando todas as atividades" />
+
 </p>
 
 ### Front-end
