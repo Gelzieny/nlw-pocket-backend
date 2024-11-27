@@ -31,6 +31,10 @@ O objetivo do evento é permitir que os desenvolvedores construam uma aplicaçã
 - Acompanhar o progresso semanal com um resumo de metas concluídas
 - Marcar metas como concluídas
 
+## Documentação
+
+A documentação do projeto está disponível no [Notion](https://docs-rocketseat.notion.site/FullStack-Intermedi-rio-Node-React-b2382e372d1f44f6bfb51a3d7b723dfd)
+
 ## 🎨 Layout
 
 O layout da aplicação está disponível no [Figma](<https://www.figma.com/design/0Hmz2mBHCHIDBnQW4XGraD/NLW-Pocket-JS-%E2%80%A2-in.orbit-(Community)-(Copy)>)
